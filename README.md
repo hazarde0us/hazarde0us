@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about DSA
 - 📫 How to reach me: Discord: my dm hazard30us#2931
-- ⚡ Fun fact: I am fun!! 🤔 maybe!
+- ⚡ Fun fact: 
 <!--
 **hazarde0us/hazarde0us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
