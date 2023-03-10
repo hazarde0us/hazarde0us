@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning DSA
-- 🤔 I’m looking for help with DSA
+- 🌱 I’m currently learning DSA with c++/java & also into webD
+- 🤔 I’m looking for help with webD
 - 💬 Ask me about DSA
 - 📫 How to reach me: Discord: my dm hazard30us#2931
-- ⚡ Fun fact: 
+- ⚡ Fun fact: i am inherently an artist( as in "artist" )!!
 <!--
 **hazarde0us/hazarde0us** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
