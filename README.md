@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning DSA with c++/java & also into webD
+- 🌱 I’m currently learning webD MERN stack and DSA with c++/java 
 - 🤔 I’m looking for help with webD
 - 💬 Ask me about DSA
 - 📫 How to reach me: Discord: my dm hazard30us#2931
